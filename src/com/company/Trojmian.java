@@ -1,9 +1,4 @@
 package com.company;/*
-metoda jest odpowiedzialna za wczytanie
-        danych do programu oraz obsłużenie sytuacji, kiedy a = 0.
-        Zmienne a, b i c to liczby rzeczywiste wprowadzane
-        z klawiatury.
-*/
 
 import java.io.BufferedReader;
 import java.io.IOException;
